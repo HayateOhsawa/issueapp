@@ -11,7 +11,7 @@
   - MySQL
   - AWS ElasticBeanstalk(一時停止中)
 - 開発環境
-  - IntelliJ
+  - IntelliJ IDEA
   - Github
 # 利用方法	
 - 新規作成ボタンをクリック
