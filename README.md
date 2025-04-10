@@ -2,12 +2,17 @@
 ## IssueApp
 # アプリケーション概要
 このアプリケーションではIssue(問題)に対して、重要度を決め、一覧が表示できます。そのため、タスクの管理などにも使用できます。
-# 使用言語・開発環境
-- Java
-- Spring Boot
-- AWS ElasticBeanstalk(一時停止中)
-- IntelliJ
-- Github
+# 使用言語・開発環境等
+- 使用言語
+  - Java
+  - Spring Boot
+  - HTML・CSS
+- データベース
+  - MySQL
+  - AWS ElasticBeanstalk(一時停止中)
+- 開発環境
+  - IntelliJ
+  - Github
 # 利用方法	
 - 新規作成ボタンをクリック
 - Issueの新規投稿をする
